@@ -1,0 +1,15 @@
+{
+  "name": "bvn-annotation-repro",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "vite build" },
+  "dependencies": {
+    "bootstrap": "5.3.8",
+    "bootstrap-vue-next": "1.2.4",
+    "vue": "^3.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.0",
+    "vite": "^7.0.0"
+  }
+}
